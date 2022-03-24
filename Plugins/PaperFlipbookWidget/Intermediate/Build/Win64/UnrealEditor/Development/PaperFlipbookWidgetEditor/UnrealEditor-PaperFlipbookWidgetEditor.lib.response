@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-PaperFlipbookWidgetEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\rcham\Documents\Unreal Projects\OperaProject\Plugins\PaperFlipbookWidget\Intermediate\Build\Win64\UnrealEditor\Development\PaperFlipbookWidgetEditor\PaperFlipbookWidgetEditor.cpp.obj"
+"C:\Users\rcham\Documents\Unreal Projects\OperaProject\Plugins\PaperFlipbookWidget\Intermediate\Build\Win64\UnrealEditor\Development\PaperFlipbookWidgetEditor\PaperFlipbookWidgetEditorStyle.cpp.obj"
+"C:\Users\rcham\Documents\Unreal Projects\OperaProject\Plugins\PaperFlipbookWidget\Intermediate\Build\Win64\UnrealEditor\Development\PaperFlipbookWidgetEditor\Default.rc2.res"
+/OUT:"C:\Users\rcham\Documents\Unreal Projects\OperaProject\Plugins\PaperFlipbookWidget\Intermediate\Build\Win64\UnrealEditor\Development\PaperFlipbookWidgetEditor\UnrealEditor-PaperFlipbookWidgetEditor.lib"

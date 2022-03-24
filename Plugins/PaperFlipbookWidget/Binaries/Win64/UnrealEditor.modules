@@ -1,0 +1,8 @@
+{
+	"BuildId": "19206456",
+	"Modules": 
+	{
+		"PaperFlipbookWidget": "UnrealEditor-PaperFlipbookWidget.dll",
+		"PaperFlipbookWidgetEditor": "UnrealEditor-PaperFlipbookWidgetEditor.dll"
+	}
+}

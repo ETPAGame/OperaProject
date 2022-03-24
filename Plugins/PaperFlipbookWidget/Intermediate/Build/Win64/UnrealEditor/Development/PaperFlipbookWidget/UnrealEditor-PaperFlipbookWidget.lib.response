@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-PaperFlipbookWidget.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\rcham\Documents\Unreal Projects\OperaProject\Plugins\PaperFlipbookWidget\Intermediate\Build\Win64\UnrealEditor\Development\PaperFlipbookWidget\PaperFlipbookUserWidget.cpp.obj"
+"C:\Users\rcham\Documents\Unreal Projects\OperaProject\Plugins\PaperFlipbookWidget\Intermediate\Build\Win64\UnrealEditor\Development\PaperFlipbookWidget\PaperFlipbookWidget.cpp.obj"
+"C:\Users\rcham\Documents\Unreal Projects\OperaProject\Plugins\PaperFlipbookWidget\Intermediate\Build\Win64\UnrealEditor\Development\PaperFlipbookWidget\SPaperFlipbookWidget.cpp.obj"
+"C:\Users\rcham\Documents\Unreal Projects\OperaProject\Plugins\PaperFlipbookWidget\Intermediate\Build\Win64\UnrealEditor\Development\PaperFlipbookWidget\PaperFlipbookUserWidget.gen.cpp.obj"
+"C:\Users\rcham\Documents\Unreal Projects\OperaProject\Plugins\PaperFlipbookWidget\Intermediate\Build\Win64\UnrealEditor\Development\PaperFlipbookWidget\PaperFlipbookWidget.init.gen.cpp.obj"
+"C:\Users\rcham\Documents\Unreal Projects\OperaProject\Plugins\PaperFlipbookWidget\Intermediate\Build\Win64\UnrealEditor\Development\PaperFlipbookWidget\Default.rc2.res"
+/OUT:"C:\Users\rcham\Documents\Unreal Projects\OperaProject\Plugins\PaperFlipbookWidget\Intermediate\Build\Win64\UnrealEditor\Development\PaperFlipbookWidget\UnrealEditor-PaperFlipbookWidget.lib"
