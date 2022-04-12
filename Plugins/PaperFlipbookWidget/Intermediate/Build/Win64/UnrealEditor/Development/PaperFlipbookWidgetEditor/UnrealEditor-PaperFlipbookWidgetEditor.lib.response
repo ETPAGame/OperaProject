@@ -6,7 +6,7 @@
 /NAME:"UnrealEditor-PaperFlipbookWidgetEditor.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\rcham\Documents\Unreal Projects\OperaProject\Plugins\PaperFlipbookWidget\Intermediate\Build\Win64\UnrealEditor\Development\PaperFlipbookWidgetEditor\PaperFlipbookWidgetEditor.cpp.obj"
-"C:\Users\rcham\Documents\Unreal Projects\OperaProject\Plugins\PaperFlipbookWidget\Intermediate\Build\Win64\UnrealEditor\Development\PaperFlipbookWidgetEditor\PaperFlipbookWidgetEditorStyle.cpp.obj"
-"C:\Users\rcham\Documents\Unreal Projects\OperaProject\Plugins\PaperFlipbookWidget\Intermediate\Build\Win64\UnrealEditor\Development\PaperFlipbookWidgetEditor\Default.rc2.res"
-/OUT:"C:\Users\rcham\Documents\Unreal Projects\OperaProject\Plugins\PaperFlipbookWidget\Intermediate\Build\Win64\UnrealEditor\Development\PaperFlipbookWidgetEditor\UnrealEditor-PaperFlipbookWidgetEditor.lib"
+"C:\GitDesktop\OperaProject\Plugins\PaperFlipbookWidget\Intermediate\Build\Win64\UnrealEditor\Development\PaperFlipbookWidgetEditor\PaperFlipbookWidgetEditor.cpp.obj"
+"C:\GitDesktop\OperaProject\Plugins\PaperFlipbookWidget\Intermediate\Build\Win64\UnrealEditor\Development\PaperFlipbookWidgetEditor\PaperFlipbookWidgetEditorStyle.cpp.obj"
+"C:\GitDesktop\OperaProject\Plugins\PaperFlipbookWidget\Intermediate\Build\Win64\UnrealEditor\Development\PaperFlipbookWidgetEditor\Default.rc2.res"
+/OUT:"C:\GitDesktop\OperaProject\Plugins\PaperFlipbookWidget\Intermediate\Build\Win64\UnrealEditor\Development\PaperFlipbookWidgetEditor\UnrealEditor-PaperFlipbookWidgetEditor.lib"
