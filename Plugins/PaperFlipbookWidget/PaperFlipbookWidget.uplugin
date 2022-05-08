@@ -10,7 +10,7 @@
 	"DocsURL": "https://unrealengineresources.com/documentation",
 	"MarketplaceURL": "https://unrealengineresources.com/plugins",
 	"SupportURL": "mailto:ue4resources@gmail.com",
-	"EngineVersion": "5.0",
+	"EngineVersion": "5.0.0",
 	"CanContainContent": true,
 	"Installed": true,
 	"Modules": [
